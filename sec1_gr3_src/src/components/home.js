@@ -164,6 +164,12 @@ class Home extends React.Component {
                                 <ReviewUl><em>- Miracle Jason</em></ReviewUl>
                             </article>
                         </Collumn>
+			<Collumn>
+                            <article>
+                                <h3>"Thanks you CodeScene!"</h3>
+                                <ReviewUl><em>- Batman</em></ReviewUl>
+                            </article>
+                        </Collumn>
                     </Container>
                 </section>
 				
