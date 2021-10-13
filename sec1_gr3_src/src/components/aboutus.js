@@ -60,7 +60,7 @@ class Aboutus extends React.Component{
                                 <Img src= {P} alt="Eakdanai Sontichai P"/>
                             </ImageBox>
                             <Info>
-                                Name: Eakdanai Sontichai<br></br>
+                                Name: Ekdanai Sontichai<br></br>
                                 ID: 6288046 <br></br>
                                 Section: 1<br></br>
                             </Info>
