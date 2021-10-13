@@ -1,0 +1,20 @@
+{
+  "name": "sec1_gr3_ws_src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sec1_grp3_ws.js",
+  "scripts": {
+    "start": "nodemon sec1_grp3_ws.js"
+  },
+  "author": "[Sec 1, Group 3]",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.7"
+  }
+}
